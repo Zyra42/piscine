@@ -1,0 +1,6 @@
+Credentials cache: API:D263439B-FF45-45A9-BD5F-331216C2F4BE
+        Principal: evialay@42.FR
+
+  Issued                Expires               Principal
+Aug  1 19:06:53 2016  Aug  2 05:06:53 2016  krbtgt/42.FR@42.FR
+Aug  1 20:25:04 2016  Aug  2 05:06:53 2016  host/vgs-fn1.42.fr@42.FR
